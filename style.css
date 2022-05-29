@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 132, 202);
+}
+#result_5{
+    background-color: rgb(233, 132, 0);
+    border: 0ch;
+}
+#result_1{
+    background-color:rgb(255, 125, 125);
+    border: 0ch;
+}
+#result_2{
+    background-color: rgb(251, 235, 129);
+    border: 0ch;
+}
+#result_3{
+    background-color: rgb(255, 193, 111);
+    border: 0ch;
+}
+#result_4{
+    background-color: rgb(251, 147, 98);
+    border: 0ch;
+}
